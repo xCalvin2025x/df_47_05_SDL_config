@@ -51,7 +51,7 @@ Change this to YES to output the reasons for world map rejection into a file.
 
 Change these numbers to make the embark rectangle start at a different size.  The format is (EMBARK_RECTANGLE:<width>:<height>).  Numbers may run from 2 to 16.  The map size warning message will go by these numbers.
 
-[EMBARK_RECTANGLE:4:4]
+[EMBARK_RECTANGLE:2:2]
 
 Change these numbers to set the default weights for traffic designations.  If you make the last numbers too large, pathfinding might lag.
 The format is (PATH_COST:<high>:<normal>:<low>:<restricted>).
