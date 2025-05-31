@@ -27,7 +27,7 @@ If set below 256x256 it specifies the grid size instead, with a minimum of 80x25
 
 [WINDOWEDX:1920]
 [WINDOWEDY:900]
-[FONT:curses_vector_24x36.png]
+[FONT:bitlands_24x36.bmp]
 
 You may disable window resizing if you wish.
 [RESIZABLE:NO]
@@ -36,7 +36,7 @@ Full screen info.  The 0s below mean that the game will choose a resolution for 
 
 [FULLSCREENX:1920]
 [FULLSCREENY:900]
-[FULLFONT:curses_vector_24x36.png]
+[FULLFONT:bitlands_24x36.bmp]
 
 If this is set to NO, tiles will be stretched to fit the screen if there is a resolution mismatch.
 If this is set to YES, the tiles will not be stretched, but rather the game view will be centralized, surrounded by black space.  Tiles that are too large will always be compressed rather than running off the screen.
